@@ -13,6 +13,7 @@ public class DesignPatternExm {
 
     /**
      * @param args the command line arguments
+     * this testing message
      */
     public static void main(String[] args) {
         System.out.println("*** Modified Observer Pattern Demo***\n");
